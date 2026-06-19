@@ -848,8 +848,8 @@
     "version": "V2.0.0"
   },
   "settings": {
-    "template": "professor",
-    "templateLabel": "professor",
+    "template": "phd",
+    "templateLabel": "phd",
     "_template_options": "Available templates: 'phd' (student view), 'professor' (professor/teacher view)",
     "demoTemplateSwitcher": false,
     "publicationStyle": "alt",
