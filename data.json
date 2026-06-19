@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "Dr. R.C. Malo",
-    "initials": "RC",
-    "tagline": "ML · GEO · SciML Research",
-    "headline": "Designing inclusive interfaces & reproducible research",
-    "bio": "I'm <strong>Dr. R.C.Malo</strong> — I build usable systems, publish reproducible work, and teach students how to design responsibly. This portfolio showcases my projects, publications, and teaching.",
+    "name": "Dr. Chen Xia",
+    "initials": "CX",
+    "tagline": "Professor · Research Area 1 · Research Area 2",
+    "headline": "AII.....",
+    "bio": "I'm xiachen..... This portfolio showcases my projects, publications, and teaching.",
     "role": "Assistant Professor",
-    "affiliation": "University of Utah",
+    "affiliation": "RIT",
     "photos": [
       {
         "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=80",
@@ -802,10 +802,10 @@
     }
   ],
   "contact": {
-    "email": "rcmalo@university.edu",
-    "phone": "+1 (801) 555‑0199",
-    "office": "Room 312, Merrill Engineering Bldg",
-    "cvUrl": "https://example.edu/cv.pdf",
+    "email": "asdasdasd@university.edu",
+    "phone": "asdasd",
+    "office": "room1111111",
+    "cvUrl": "cv google drive ",
     "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.5!2d-111.84!3d40.76!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sUniversity+of+Utah!5e0!3m2!1sen!2sus",
     "socials": [
       {
@@ -848,10 +848,10 @@
     "version": "V2.0.0"
   },
   "settings": {
-    "template": "phd",
-    "templateLabel": "PhD Student",
+    "template": "professor",
+    "templateLabel": "professor",
     "_template_options": "Available templates: 'phd' (student view), 'professor' (professor/teacher view)",
-    "demoTemplateSwitcher": true,
+    "demoTemplateSwitcher": false,
     "publicationStyle": "alt",
     "scholarId": "7-QY6VEAAAAJ",
     "_theme_options": "Available themes: 'BH' (default light), 'blue' (academic light blue), 'dark'",
